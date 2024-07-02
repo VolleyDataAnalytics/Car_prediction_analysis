@@ -16,9 +16,9 @@ The goal of this project is to build a predictive model that can estimate the pr
 ## fuel_type: The type of fuel used by the car.
 
 **Key Steps**
-1.Data Import and Initial Exploration
-2.Data Cleaning and Preprocessing
-3.Exploratory Data Analysis (EDA)
-4.Model Building
-5.Model Evaluation
-6.Conclusions and Future Work
+# 1.Data Import and Initial Exploration
+# 2.Data Cleaning and Preprocessing
+# 3.Exploratory Data Analysis (EDA)
+# 4.Model Building
+# 5.Model Evaluation
+# 6.Conclusions and Future Work
