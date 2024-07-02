@@ -5,7 +5,7 @@ This project aims to predict car prices using a dataset from Quikr, which includ
 The goal of this project is to build a predictive model that can estimate the price of a car based on its features. By understanding the factors that influence car prices, we can provide valuable insights to potential buyers and sellers in the used car market.
 
 **Dataset**
-## Source: Quikr car listings
+# Source: Quikr car
 ## Number of Entries: 892
 ## Columns:
 ## name: The model name of the car.
